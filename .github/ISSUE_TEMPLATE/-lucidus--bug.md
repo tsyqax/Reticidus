@@ -1,8 +1,8 @@
 ---
-name: Bug report
+name: "[Lucidus] BUG"
 about: Create a report to help us improve
-title: "[BUG] UwU"
-labels: ''
+title: "[Lucidus] UwU"
+labels: bug, lucidus
 assignees: ''
 
 ---
@@ -12,12 +12,14 @@ assignees: ''
 
 ### 2. Version
 - Version: 
-- MC Version
+- MC Version:
+
 
 ### 3. Steps to Reproduce
 1. 
 2. 
 3. 
+
 
 ### 4. Bug Description (Detail)
 
