@@ -1,4 +1,4 @@
-# Reticulata / Lucidus Issue Tracker
+# Reticulata / Lucidus
 This is the official repository for tracking issues related to **Reticulata** (Modpack) and **Lucidus** (Shader).  
 This is related Minecraft content.
 
