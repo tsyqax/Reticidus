@@ -1,7 +1,7 @@
 ---
 name: "[Reticulata] Feature"
 about: Suggest an idea for this project
-title: ''
+title: "[Reticulata] New 0o0"
 labels: enhancement, Reticulata
 assignees: ''
 
